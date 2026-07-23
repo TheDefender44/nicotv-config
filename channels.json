@@ -4,7 +4,7 @@
         {
             "id": "1",
             "name": "MotoGP",
-            "logo": "https://raw.githubusercontent.com/TheDefender44/nicotv-config/new/main/logos/tf1.png",
+            "logo": "",
             "url": "https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master_6692.m3u8",
             "category": "Généraliste"
         }
